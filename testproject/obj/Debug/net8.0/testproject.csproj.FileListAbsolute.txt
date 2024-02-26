@@ -1,0 +1,15 @@
+C:\Users\benwh\first-csharp-project\testproject\bin\Debug\net8.0\testproject.exe
+C:\Users\benwh\first-csharp-project\testproject\bin\Debug\net8.0\testproject.deps.json
+C:\Users\benwh\first-csharp-project\testproject\bin\Debug\net8.0\testproject.runtimeconfig.json
+C:\Users\benwh\first-csharp-project\testproject\bin\Debug\net8.0\testproject.dll
+C:\Users\benwh\first-csharp-project\testproject\bin\Debug\net8.0\testproject.pdb
+C:\Users\benwh\first-csharp-project\testproject\obj\Debug\net8.0\testproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benwh\first-csharp-project\testproject\obj\Debug\net8.0\testproject.AssemblyInfoInputs.cache
+C:\Users\benwh\first-csharp-project\testproject\obj\Debug\net8.0\testproject.AssemblyInfo.cs
+C:\Users\benwh\first-csharp-project\testproject\obj\Debug\net8.0\testproject.csproj.CoreCompileInputs.cache
+C:\Users\benwh\first-csharp-project\testproject\obj\Debug\net8.0\testproject.sourcelink.json
+C:\Users\benwh\first-csharp-project\testproject\obj\Debug\net8.0\testproject.dll
+C:\Users\benwh\first-csharp-project\testproject\obj\Debug\net8.0\refint\testproject.dll
+C:\Users\benwh\first-csharp-project\testproject\obj\Debug\net8.0\testproject.pdb
+C:\Users\benwh\first-csharp-project\testproject\obj\Debug\net8.0\testproject.genruntimeconfig.cache
+C:\Users\benwh\first-csharp-project\testproject\obj\Debug\net8.0\ref\testproject.dll
